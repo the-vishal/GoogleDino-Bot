@@ -23,7 +23,7 @@ while True:
     #last= time.time()
     new_screen = manipulate(screen)
     #cv2.imshow('window1', new_screen)
-    cv2.imshow('Bot', manipulate(np.array(ImageGrab.grab(bbox=(0   , 80, 620, 270)))))
+    cv2.imshow('Bot', manipulate(np.array(ImageGrab.grab(bbox=(0 , 80, 620, 270)))))
 
     if np.any(new_screen !=0):
         jump()
