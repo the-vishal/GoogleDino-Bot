@@ -9,6 +9,6 @@ Simple Implementation of OpenCV and numpy to automate playbot for google offline
 3.Launch the game.<br/>
 4.Launch the script.<br/>
 5.Click to browser window again.<br/>
-6.Watch Bot playing window :p <br/>
+6.Watch Bot playing game :p <br/>
 <br/>
 ![image](https://github.com/the-vishal/GoogleDino-Bot/blob/master/dino.gif)
